@@ -12,10 +12,8 @@ Li, S., Freymueller, J., and McCaffrey, R. (2016), Slow slip events and time-dep
 ### Published Datasets (Datasets Folder)
 1. Table S1: GPS site locations, velocities and associated uncertainties in the horizontal (east and north) component, the correlations and names for time period 1 (1992.0-2004.8).
 2. Table S2: GPS site locations, velocities and associated uncertainties in the horizontal (east and north) component, the correlations and names for time period 2 (2004.8-2009.85).
-<br>
 3. Table S3: GPS site locations, velocities and associated uncertainties in the horizontal (east and north) component, the correlations and names for time period 3 (2009.85-2011.81).
-<br>
 4.Table S4: GPS site locations, velocities and associated uncertainties in the horizontal (east and north) component, the correlations and names for time period 4 (2011.81-2014.87).
-<br>
 5. Table S5: GPS site locations, velocities and associated uncertainties in the horizontal (east and north) component, the correlations and names for combined data set of periods 1 and
 4 including the sites in the Alaska Peninsula.
+6. outline text files for SSE1 and SSE2 in periods 1 and 3 
