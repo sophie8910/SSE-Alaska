@@ -3,8 +3,11 @@
 What are the factors that control such slow and fast ruptures, the underlying physical mechanism and the potential linkages between these phenomena?
 
 ## Slow Slip Events and Time Dependent Variations in Locking beneath Lower Cook Inlet of the Alaska-Aleutian Subduction Zone
+![image](https://github.com/sophie8910/SSE-Alaska/assets/8365653/28ffc6d0-1e66-4994-9321-346c3124dbb4)
+
 ### Citation (Please cite my paper in JGR:solid Earth if you use my datasets or research results)
 
+Li, S., Freymueller, J., and McCaffrey, R. (2016), Slow slip events and time-dependent variations in locking beneath Lower Cook Inlet of the Alaska-Aleutian subduction zone, J. Geophys. Res. Solid Earth, 121, 1060–1079, doi:10.1002/2015JB012491.
 
 ### Published Datasets (Datasets Folder)
 1. Table S1: GPS site locations, velocities and associated uncertainties in the horizontal (east and north) component, the correlations and names for time period 1 (1992.0-2004.8).
